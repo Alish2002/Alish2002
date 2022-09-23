@@ -10,3 +10,6 @@ I'm pursuing my B.Tech at Maharishi Markandeshwar University.
 <li> CSS </li>
 <li> Python </li>
 </ul>
+
+### Hobbies
+Book Reading, Music, Movies.
