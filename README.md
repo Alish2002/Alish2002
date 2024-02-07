@@ -8,6 +8,9 @@ I'm pursuing my B.Tech at Maharishi Markandeshwar University.
 <ul>
 <li> HTML </li>
 <li> CSS </li>
+<li>JavaScript</li>
+<li>Java</li>
+<li>C++</li>
 <li> Python </li>
 </ul>
 
