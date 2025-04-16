@@ -16,4 +16,4 @@ I'm pursuing my B.Tech at Maharishi Markandeshwar University, Mullana, Ambala.
 </ul>
 
 ### Hobbies
-Book Reading, Music, Movies.
+Book Reading, Music, Interacting with people.
