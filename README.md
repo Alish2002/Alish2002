@@ -1,17 +1,18 @@
 ## Hello, I'm Alish Kamboj
 
-I'm a 3rd-year B.Tech Computer Science student.
+I'm a Final-year B.Tech Computer Science student.
 
-I'm pursuing my B.Tech at Maharishi Markandeshwar University.
+I'm pursuing my B.Tech at Maharishi Markandeshwar University, Mullana, Ambala.
 
 ### Skills
 <ul>
+<li>C++</li>
 <li> HTML </li>
 <li> CSS </li>
 <li>JavaScript</li>
-<li>Java</li>
-<li>C++</li>
-<li> Python </li>
+<li>ReactJs</li>
+<li>NodeJs</li>
+<li> Core Java </li>
 </ul>
 
 ### Hobbies
