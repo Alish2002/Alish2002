@@ -1,8 +1,8 @@
 ## Hello, I'm Alish Kamboj
 
-I'm a Final-year B.Tech Computer Science student.
+I'm a recent B.Tech graduate in Computer Science and Engineering.
 
-I'm pursuing my B.Tech at Maharishi Markandeshwar University, Mullana, Ambala.
+I'm completed my B.Tech at Maharishi Markandeshwar University, Mullana, Ambala.
 
 ### Skills
 <ul>
